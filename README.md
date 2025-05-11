@@ -2,8 +2,6 @@
 
 A modern, responsive web application for buying and selling unused software licenses. SoftShell provides a secure platform for users to monetize their unused software licenses and for buyers to purchase licenses at competitive prices.
 
-![SoftShell Screenshot](screenshot.png)
-
 ## Features Implemented
 
 ### Core Features
@@ -133,7 +131,7 @@ A modern, responsive web application for buying and selling unused software lice
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:3000`
+5. Open your browser and navigate to `https://soft-sell-fv2u.vercel.app/`
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
